@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Sofia+Sans+Extra+Condensed:ital,wght@0,1..1000;1,1..1000&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header nav{
+    display:flex;
+    flex-direction: row;
+    padding: 25px;
+    justify-content: space-between;
+    background-color: #ff0000;
+    color: #fff000;
+    font-family: 'Sofia';
+    font-size: 24px;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+header li{
+    display: inline;
+    margin-right: 15px;
+}
+header li a{
+    text-decoration: none;
+    color: #fff;
+}
+#campo-texto .articles,
+#campo-texto .articles,
+#alpha .articles,
+#beta .articles,
+#omega .articles{
+margin: 30px 30px;   
+margin-left: 42px; 
+margin-right: 20px;
+font-size: 24px;
+text-align: justify;
+color: #fff;
+font-family: 'Sofia';
+}
+#campo-texto .articles h1
+#alpha .articles h1,
+#beta.articles h1,
+#omega .articles h1{
+    margin-bottom: 12px;
+}
+body{
+    background-color: #0000CD	;
+}
+#alpha img,
+#beta img,
+#omega img{
+width: 325px;
+height: 300px;
+}
+#alpha .container{
+    display:flex;
+    justify-content: space-around;
+    border-radius: 25px;
+}
+.card-01{
+    width: 328px;
+    height: 500px;
+    background-color: #ff0000;
+    color: #fff;
+    border: solid 2px;
+    text-align: justify;
+}
+.card-01 h3{
+    text-align: center;
+    border-bottom: 18px;
+}
+.card-02{
+    width: 328px;
+    height: 500px;
+    background-color: #ff0000;
+    color: #fff;
+    border: solid 2px;
+    text-align: justify;
+}
+.card-02 h3{
+    text-align: center;
+    border-bottom: 18px;
+}
+.card-03{
+    width: 328px;
+    height: 500px;
+    background-color: #ff0000;
+    color: #fff;
+    border: solid 2px;
+    text-align: justify;
+}
+.card-03 h3{
+    text-align: center;
+    border-bottom: 25px;
+}
+#beta .container{
+    display:flex;
+    justify-content: space-around;
+    border-radius: 25px;
+}
+.card-04{
+    width: 328px;
+    height: 500px;
+    background-color: #ff0000;
+    color: #fff;
+    border: solid 2px;
+    text-align: justify;
+}
+.card-04 h3{
+    text-align: center;
+    border-bottom: 25px;
+}
+.card-05{
+    width: 328px;
+    height: 500px;
+    background-color: #ff0000;
+    color: #fff;
+    border: solid 2px;
+    text-align: justify;
+}
+.card-05 h3{
+    text-align: center;
+    border-bottom: 25px;
+}
+.card-06{
+    width: 328px;
+    height: 500px;
+    background-color: #ff0000;
+    color: #fff;
+    border: solid 2px;
+    text-align: justify;
+}
+.card-06 h3{
+    text-align: center;
+    border-bottom: 25px;
+}
+#omega .container{
+    display:flex;
+    justify-content: space-around;
+    border-radius: 25px;
+    border-bottom: 25px;
+}
+.card-07{
+    width: 328px;
+    height: 500px;
+    background-color: #ff0000;
+    color: #fff;
+    border: solid 2px;
+    text-align: justify;
+    margin-bottom: 42px;
+}
+.card-07 h3{
+    text-align: center;
+    border-bottom: 25px;
+}
+.card-08{
+    width: 328px;
+    height: 500px;
+    background-color: #ff0000;
+    color: #fff;
+    border: solid 2px;
+    text-align: justify; 
+    margin-bottom: 42px;
+}
+.card-08 h3{
+    text-align: center;
+    border-bottom: 25px;
+}
+.card-09{
+    width: 328px;
+    height: 500px;
+    background-color: #ff0000;
+    color: #fff;
+    border: solid 2px;
+    text-align: justify;
+    margin-bottom: 42px;
+}
+.card-09 h3{
+    text-align: center;
+}
+footer{
+    background-color: #ff0000;
+    color: #fff;
+    padding: 35px;
+    text-align: center;
+}
+        
+    
